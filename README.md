@@ -3,7 +3,7 @@
 
 Postman官网：https://www.postman.com
 
-注：轻量级Postman即为未登录的版本。
+注：轻量级Postman即未登录的Postman。
 
 意：请一定保持Postman版本与本汉化工具版本对应，否则汉化后Postman可能会打不开。
 
